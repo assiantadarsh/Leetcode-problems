@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -28,10 +29,12 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 ## Recursion
 |  |
