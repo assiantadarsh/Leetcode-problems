@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 ## Simulation
 |  |
@@ -36,4 +37,8 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0050-powx-n) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
