@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
