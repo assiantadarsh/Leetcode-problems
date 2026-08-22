@@ -21,6 +21,7 @@
 | [0007-reverse-integer](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0050-powx-n) |
+| [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 ## Recursion
@@ -114,4 +116,8 @@
 | ------- |
 | [0278-first-bad-version](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
