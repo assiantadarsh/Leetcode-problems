@@ -23,6 +23,7 @@
 | [0050-powx-n](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
 |  |
 | ------- |
