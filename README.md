@@ -86,6 +86,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0162-find-peak-element) |
+| [0374-guess-number-higher-or-lower](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
@@ -107,4 +108,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
