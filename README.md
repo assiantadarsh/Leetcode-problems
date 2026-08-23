@@ -50,6 +50,7 @@
 | [1470-shuffle-the-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
+| [3701-compute-alternating-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3701-compute-alternating-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
+| [3701-compute-alternating-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3701-compute-alternating-sum) |
 ## Recursion
 |  |
 | ------- |
