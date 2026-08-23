@@ -22,6 +22,7 @@
 | [0009-palindrome-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
+| [2544-alternating-digit-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Enumeration
