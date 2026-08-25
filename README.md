@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [2810-faulty-keyboard](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2810-faulty-keyboard) |
 ## Stack
 |  |
 | ------- |
@@ -62,6 +63,7 @@
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
+| [2810-faulty-keyboard](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2810-faulty-keyboard) |
 | [3701-compute-alternating-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3701-compute-alternating-sum) |
 ## Recursion
 |  |
