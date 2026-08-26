@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2810-faulty-keyboard](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2810-faulty-keyboard) |
 ## Stack
 |  |
@@ -55,6 +56,7 @@
 | [1470-shuffle-the-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2951-find-the-peaks](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2951-find-the-peaks) |
 | [3701-compute-alternating-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3701-compute-alternating-sum) |
 ## Simulation
@@ -119,6 +121,7 @@
 | ------- |
 | [0015-3sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
+| [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
 | ------- |
@@ -144,4 +147,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 <!---LeetCode Topics End-->
