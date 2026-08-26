@@ -43,6 +43,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0136-single-number) |
@@ -81,6 +82,7 @@
 | [0015-3sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 ## Greedy
@@ -116,6 +118,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
 ## Matrix
 |  |
 | ------- |
@@ -133,4 +136,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
