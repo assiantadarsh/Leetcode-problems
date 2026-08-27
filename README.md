@@ -158,4 +158,8 @@
 |  |
 | ------- |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
