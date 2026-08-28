@@ -51,6 +51,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
