@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
@@ -92,6 +93,7 @@
 | [0031-next-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
