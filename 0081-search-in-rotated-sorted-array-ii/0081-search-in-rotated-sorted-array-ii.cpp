@@ -12,14 +12,13 @@ public:
                 return true;
             }
 
-            // Duplicate elements
             if(nums[st] == nums[mid] && nums[mid] == nums[end]) {
                 st++;
                 end--;
                 continue;
             }
 
-            // Left half sorted
+           
             if(nums[st] <= nums[mid]) {
 
                 if(nums[st] <= tar && tar < nums[mid]) {
@@ -30,7 +29,7 @@ public:
                 }
             }
 
-            // Right half sorted
+           
             else {
 
                 if(nums[mid] < tar && tar <= nums[end]) {
