@@ -8,6 +8,7 @@
 | [0125-valid-palindrome](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -106,6 +107,7 @@
 | [0125-valid-palindrome](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Greedy
@@ -173,6 +175,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Database
 |  |
@@ -184,4 +187,8 @@
 | [0183-customers-who-never-order](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0183-customers-who-never-order) |
 | [0511-game-play-analysis-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0511-game-play-analysis-i) |
 | [0596-classes-with-at-least-5-students](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0596-classes-with-at-least-5-students) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
