@@ -46,6 +46,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0015-3sum) |
@@ -176,6 +177,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0001-two-sum) |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Database
