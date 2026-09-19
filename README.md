@@ -55,6 +55,7 @@
 | [0031-next-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -178,6 +179,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Database
