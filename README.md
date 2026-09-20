@@ -15,6 +15,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2810-faulty-keyboard](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2810-faulty-keyboard) |
+| [3498-reverse-degree-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -86,6 +87,7 @@
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [2390-removing-stars-from-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2810-faulty-keyboard](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2810-faulty-keyboard) |
+| [3498-reverse-degree-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3701-compute-alternating-sum) |
 ## Recursion
 |  |
