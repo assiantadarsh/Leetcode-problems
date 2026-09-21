@@ -14,6 +14,7 @@
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2390-removing-stars-from-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2810-faulty-keyboard](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2810-faulty-keyboard) |
