@@ -10,6 +10,7 @@
 | [0125-valid-palindrome](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0504-base-7](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
@@ -38,6 +39,7 @@
 | [0009-palindrome-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
+| [0504-base-7](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0504-base-7) |
 | [2119-a-number-after-a-double-reversal](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2544-alternating-digit-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
