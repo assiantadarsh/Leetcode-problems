@@ -79,6 +79,7 @@
 | [1470-shuffle-the-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2951-find-the-peaks](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2951-find-the-peaks) |
 | [3701-compute-alternating-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3701-compute-alternating-sum) |
@@ -143,6 +144,7 @@
 | [0278-first-bad-version](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Ternary Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [0015-3sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Matrix
 |  |
