@@ -43,6 +43,7 @@
 | [2119-a-number-after-a-double-reversal](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2544-alternating-digit-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3870-count-commas-in-range) |
 ## Enumeration
@@ -82,6 +83,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 | [2951-find-the-peaks](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2951-find-the-peaks) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3701-compute-alternating-sum) |
 ## Simulation
 |  |
