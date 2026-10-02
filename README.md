@@ -105,6 +105,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -232,4 +233,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
