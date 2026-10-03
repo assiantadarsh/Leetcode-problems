@@ -11,6 +11,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
@@ -40,6 +41,7 @@
 | [0009-palindrome-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0050-powx-n) |
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0504-base-7) |
 | [2119-a-number-after-a-double-reversal](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2544-alternating-digit-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
@@ -93,6 +95,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
