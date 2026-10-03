@@ -2,9 +2,9 @@ class Solution {
 public:
     bool detectCapitalUse(string word) {
 
-        char all_c = true;
-        char all_s = true;
-        char first_c = false;
+        bool all_c = true;
+        bool all_s = true;
+        bool first_c = false;
 
         if(word[0] >= 'A' && word[0] <= 'Z'){
             first_c = true;
