@@ -2,27 +2,22 @@ class Solution {
 public:
     bool canConstruct(string r, string m) {
         
-        unordered_map<char , int>mp1;
-        unordered_map<char , int>mp2;
+        int mp1[26] = {0};
+        int mp2[26] = {0};
 
         for(int i = 0; i < r.length(); i++){
-            mp1[r[i]]++;
+            mp1[r[i] - 'a']++;
         }
 
         for(int i = 0; i < m.length(); i++){
-            mp2[m[i]]++;
+            mp2[m[i] - 'a']++;
         }
 
-        for(int i = 0; i < r.length(); i++){
+        for(int i = 0; i < 26; i++){
 
-            if(i != 0 && r[i - 1] == r[i]){
-                continue;
-            }
-
-            else if(mp1[r[i]] > mp2[r[i]]){
+            if(mp1[i] > mp2[i]){
                 return false;
             }
-
         }
 
         return true;
