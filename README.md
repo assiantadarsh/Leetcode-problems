@@ -89,6 +89,7 @@
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1470-shuffle-the-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -141,6 +142,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
+| [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -180,6 +182,7 @@
 | [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Matrix
