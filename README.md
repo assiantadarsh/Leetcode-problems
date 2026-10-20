@@ -49,6 +49,7 @@
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0504-base-7) |
+| [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2544-alternating-digit-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -141,6 +142,7 @@
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
@@ -165,6 +167,7 @@
 | [0162-find-peak-element](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Ternary Search
