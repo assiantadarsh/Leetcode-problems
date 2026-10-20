@@ -87,6 +87,7 @@
 | [0162-find-peak-element](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0238-product-of-array-except-self](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -258,6 +259,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0643-maximum-average-subarray-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 ## Linked List
 |  |
 | ------- |
