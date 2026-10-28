@@ -92,6 +92,7 @@
 | [0136-single-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0162-find-peak-element) |
+| [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -200,6 +201,7 @@
 | [0015-3sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -238,6 +240,7 @@
 | [0001-two-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0205-isomorphic-strings](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0383-ransom-note) |
@@ -289,6 +292,11 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
