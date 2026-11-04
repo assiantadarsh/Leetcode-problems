@@ -100,6 +100,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -159,6 +160,7 @@
 | [0125-valid-palindrome](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0443-string-compression) |
@@ -189,6 +191,7 @@
 | [0162-find-peak-element](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -203,6 +206,7 @@
 | [0136-single-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
@@ -310,4 +314,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
