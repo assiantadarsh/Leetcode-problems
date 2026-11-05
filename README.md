@@ -57,6 +57,7 @@
 | [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [2119-a-number-after-a-double-reversal](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2469-convert-the-temperature) |
 | [2544-alternating-digit-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2544-alternating-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -245,6 +246,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2413-smallest-even-multiple) |
 ## Quicksort
 |  |
 | ------- |
