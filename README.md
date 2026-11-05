@@ -107,6 +107,7 @@
 | [0724-find-pivot-index](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1470-shuffle-the-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1470-shuffle-the-array) |
 | [1920-build-array-from-permutation](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1920-build-array-from-permutation) |
 | [1991-find-the-middle-index-in-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
@@ -168,6 +169,7 @@
 | [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -195,6 +197,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Ternary Search
 |  |
@@ -217,6 +220,7 @@
 | [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
 ## Matrix
