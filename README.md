@@ -55,6 +55,7 @@
 | [0412-fizz-buzz](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0504-base-7](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0504-base-7) |
 | [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [1952-three-divisors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2119-a-number-after-a-double-reversal](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2119-a-number-after-a-double-reversal) |
 | [2235-add-two-integers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2413-smallest-even-multiple) |
@@ -68,6 +69,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2951-find-the-peaks) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -246,6 +248,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2413-smallest-even-multiple) |
 ## Quicksort
 |  |
@@ -329,4 +332,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
