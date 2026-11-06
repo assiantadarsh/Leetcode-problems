@@ -106,6 +106,7 @@
 | [0260-single-number-iii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
@@ -170,6 +171,7 @@
 | [0287-find-the-duplicate-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
@@ -200,6 +202,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -225,6 +228,7 @@
 | [0088-merge-sorted-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -269,6 +273,7 @@
 | [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
