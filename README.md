@@ -22,6 +22,7 @@
 | [0504-base-7](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -111,6 +112,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0724-find-pivot-index) |
+| [0821-shortest-distance-to-a-character](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -175,6 +177,7 @@
 | [0443-string-compression](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0633-sum-of-square-numbers) |
+| [0821-shortest-distance-to-a-character](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0844-backspace-string-compare](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0844-backspace-string-compare) |
 | [0922-sort-array-by-parity-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
