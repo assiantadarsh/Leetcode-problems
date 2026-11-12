@@ -51,6 +51,7 @@
 | [0009-palindrome-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0326-power-of-three) |
@@ -72,6 +73,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2951-find-the-peaks) |
@@ -103,6 +105,7 @@
 | [0136-single-number](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -261,6 +264,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2413-smallest-even-multiple) |
@@ -357,9 +361,18 @@
 ## Sieve Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0204-count-primes) |
 | [1952-three-divisors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1952-three-divisors) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0014-longest-common-prefix) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
