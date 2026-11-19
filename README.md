@@ -131,6 +131,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2951-find-the-peaks) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/assiantadarsh/Leetcode-problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Matrix
 |  |
 | ------- |
