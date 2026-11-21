@@ -98,6 +98,7 @@
 | [0048-rotate-image](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -260,6 +261,7 @@
 | [0048-rotate-image](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Divide and Conquer
 |  |
@@ -292,6 +294,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0242-valid-anagram) |
