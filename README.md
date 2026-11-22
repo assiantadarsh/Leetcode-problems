@@ -28,6 +28,7 @@
 | [1768-merge-strings-alternately](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1768-merge-strings-alternately) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/assiantadarsh/Leetcode-problems/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/assiantadarsh/Leetcode-problems/tree/master/2418-sort-the-people) |
