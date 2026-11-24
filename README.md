@@ -97,6 +97,7 @@
 | [0035-search-insert-position](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -166,6 +167,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0152-maximum-product-subarray) |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/assiantadarsh/Leetcode-problems/tree/master/0347-top-k-frequent-elements) |
 ## Interactive
